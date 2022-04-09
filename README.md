@@ -10,24 +10,23 @@ iv) Rotate and display the video.
  Anaconda - Python 3.7
 # Algorithm:
 ### Step 1:
-<br>
+Open Jupyter Notebook in the suitable environment using anaconda navigator.
 
 ### Step 2:
-<br>
+Create a new folder, in that create new python kernel file.
 
 ### Step 3:
-<br>
+Use VideoCapture(0) to use the camera.
 
 ### Step 4:
-<br>
-
+After executing each code use release() to close the camera.
 ### Step 5:
-<br>
+Close the each window frame after the result using the ordered waitkey
 
 # Program:
 ``` Python
-### Developed By:
-### Register No:
+### Developed By: S MANOJ KUMAR
+### Register No: 212221230056
 
 ## i) Write the frame as JPG file
 import cv2
